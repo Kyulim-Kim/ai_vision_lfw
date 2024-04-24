@@ -1,7 +1,8 @@
 # AI computer vision tasks with LFW Dataset
-dataset can be downloaded [here](https://vis-www.cs.umass.edu/lfw/)
+Dataset can be downloaded [here](https://vis-www.cs.umass.edu/lfw/)
+Implemented in Google Colab notebook (T4 GPU)
 
-# Tasks to be uploaded
+# Tasks
 - DCGAN (To-Do)
 - Contrastive Learning (To-Do)
 - YOLOV5
