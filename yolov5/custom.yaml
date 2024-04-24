@@ -1,0 +1,5 @@
+path: /content/face_detection/data
+train: ./images/train
+val: ./images/val
+nc: 3
+names: ['mouth', 'nose', 'eyes']
